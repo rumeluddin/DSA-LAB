@@ -13,12 +13,16 @@ Lab Topics Covered
   - Linear_Search_On_Array.c
   - Square_Root.c
 
+
+
 2. Linear Data Structures
   - Dynamic_Array.c
   - linked_list.c
   - stack.c
   - queue.c
   - circular_queue.c
+
+
 
 3. Recursion
   - fibonacci.c
