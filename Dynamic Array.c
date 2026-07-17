@@ -4,8 +4,6 @@
 int main() {
     int *arr;
     int n = 3;
-
-    // malloc() -> allocate memory
     arr = (int *)malloc(n * sizeof(int));
 
     if (arr == NULL) {
@@ -19,7 +17,6 @@ int main() {
         printf("%d ", arr[i]);
     }
 
-    // realloc() -> resize memory
     n = 5;
     arr = (int *)realloc(arr, n * sizeof(int));
 
@@ -32,18 +29,16 @@ int main() {
         printf("%d ", arr[i]);
     }
 
-    // free() -> release memory
     free(arr);
 
-    // calloc() -> allocate & initialize with 0
     arr = (int *)calloc(4, sizeof(int));
 
     printf("\n\nUsing calloc:\n");
     for (int i = 0; i < 4; i++) {
-        printf("%d ", arr[i]);   // initially all zero
+        printf("%d ", arr[i]);   
     }
 
-    free(arr);   // free calloc memory too
+    free(arr);  
 
     return 0;
 }
