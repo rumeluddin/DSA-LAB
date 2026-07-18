@@ -1,4 +1,4 @@
-# Data Structures and Algorithms (DSA) 
+# 💻 Data Structures & Algorithms 
 
 A structured collection of core data structures, optimized algorithms, and laboratory assignments implemented from scratch.
 
@@ -32,18 +32,19 @@ DSA-LAB/
 └── 📁 Recursion/
     ├── fibonacci.c
     └── sum_using_recursion.c
+🎯 Purpose
+Better Coding: Improving logic building and problem-solving skills.
 
-## 🎯 Purpose
+Core Concepts: Understanding how data structures work behind the scenes.
 
-* Improving logic building and problem-solving skills.
-* Understanding how data structures work behind the scenes.
-* Keeping all academic lab assignments clean and organized.
+Lab Tracking: Keeping all academic lab assignments clean and organized.
 
-## 📝 Notes
+📝 Notes
+Language: All programs are written and tested in standard C.
 
-* All programs are written and tested in standard C.
-* Code might be updated later with better logic or optimization.
-* Created strictly for educational and lab practice purposes.
+Updates: Code might be updated later with better logic or optimization.
+
+Usage: Created strictly for educational and lab practice purposes.
 
 
 🧑‍💻 Author
