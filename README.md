@@ -52,10 +52,9 @@ Updates: Code might be updated later with better logic or optimization.
 
 Usage: Created strictly for educational and lab practice purposes.
 
-
 🧑‍💻 Author
-MD FOYEZ UDDIN
+Name: MD FOYEZ UDDIN
 
 ID: 2024331557
 
-Department of Computer Science and Engineering
+Department: Department of Computer Science and Engineering
