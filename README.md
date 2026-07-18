@@ -50,9 +50,9 @@ DSA-LAB/
 
 ## 📝 Notes
 
-* Language: All programs are written and tested in standard C.
-* Updates: Code might be updated later with better logic or optimization.
-* Usage: Created strictly for educational and lab practice purposes.
+* All programs are written and tested in standard C.
+* Code might be updated later with better logic or optimization.
+* Created strictly for educational and lab practice purposes.
 
 ## 🧑‍💻 Author
 
