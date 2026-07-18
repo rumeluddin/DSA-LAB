@@ -58,5 +58,5 @@ DSA-LAB/
 
 * Name: MD FOYEZ UDDIN
 * ID: 2024331557
-* Department: Department of Computer Science and Engineering
+* Department: Computer Science and Engineering
 
