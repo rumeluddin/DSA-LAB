@@ -12,7 +12,7 @@ Lab Topics Covered
 1. Searching and Binary Tree
   - Binary_Search_On_Array.c
   - Linear_Search_On_Array.c
-  - Square_Root.c
+  - Square_Root_Binary_search.c
 
 
 
