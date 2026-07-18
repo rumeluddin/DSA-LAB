@@ -42,23 +42,21 @@ DSA-LAB/
 ```
 
 ## 🎯 Purpose
-Better Coding: Improving logic building and problem-solving skills.
 
-Core Concepts: Understanding how data structures work behind the scenes.
-
-Lab Tracking: Keeping all academic lab assignments clean and organized.
+* Improving logic building and problem-solving skills.
+* Understanding how data structures work behind the scenes.
+* Keeping all academic lab assignments clean and organized.
 
 
 ## 📝 Notes
-Language: All programs are written and tested in standard C.
 
-Updates: Code might be updated later with better logic or optimization.
-
-Usage: Created strictly for educational and lab practice purposes.
+* Language: All programs are written and tested in standard C.
+* Updates: Code might be updated later with better logic or optimization.
+* Usage: Created strictly for educational and lab practice purposes.
 
 ## 🧑‍💻 Author
-Name: MD FOYEZ UDDIN
 
-ID: 2024331557
+* Name: MD FOYEZ UDDIN
+* ID: 2024331557
+* Department: Department of Computer Science and Engineering
 
-Department: Department of Computer Science and Engineering
