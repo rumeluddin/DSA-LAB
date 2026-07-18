@@ -38,21 +38,25 @@ DSA-LAB/
 └── 📁 Recursion/
     ├── fibonacci.c
     └── sum_using_recursion.c
-🎯 Purpose
+
+```
+
+## 🎯 Purpose
 Better Coding: Improving logic building and problem-solving skills.
 
 Core Concepts: Understanding how data structures work behind the scenes.
 
 Lab Tracking: Keeping all academic lab assignments clean and organized.
 
-📝 Notes
+
+## 📝 Notes
 Language: All programs are written and tested in standard C.
 
 Updates: Code might be updated later with better logic or optimization.
 
 Usage: Created strictly for educational and lab practice purposes.
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Name: MD FOYEZ UDDIN
 
 ID: 2024331557
