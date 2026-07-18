@@ -1,6 +1,8 @@
-# 💻 Data Structures & Algorithms 
+# 💻 Data Structures & Algorithms (DSA)
 
 A structured collection of core data structures, optimized algorithms, and laboratory assignments implemented from scratch.
+
+---
 
 ## 📚 Contents
 
@@ -9,9 +11,13 @@ The repository includes implementations of:
 * Linear Data Structures
 * Recursion
 
+---
+
 ## 🛠️ Language Used
 
 * C
+
+---
 
 ## 📁 Repository Structure
 
