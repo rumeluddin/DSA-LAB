@@ -74,24 +74,26 @@ DSA-LAB/
 │
 └── README.md
 ```
+---
 
-🎯 Purpose
-Improving logic building and problem-solving skills.
+## 🎯 Purpose
 
-Understanding how data structures and graph algorithms work behind the scenes.
+* Improving logic building and problem-solving skills.
+* Understanding how data structures and graph algorithms work behind the scenes.
+* Keeping all academic lab assignments clean, optimized, and organized.
 
-Keeping all academic lab assignments clean, optimized, and organized.
+---
 
-📝 Notes
-All programs are written and tested in standard C.
+## 📝 Notes
 
-Code might be updated later with better logic or optimization.
+* All programs are written and tested in standard C.
+* Code might be updated later with better logic or optimization.
+* Created strictly for educational and lab practice purposes.
 
-Created strictly for educational and lab practice purposes.
+---
 
-🧑‍💻 Author
-Name: MD FOYEZ UDDIN
+## 🧑‍💻 Author
 
-ID: 2024331557
-
-Department: Computer Science and Engineering
+* **Name:** MD FOYEZ UDDIN
+* **ID:** 2024331557
+* **Department:** Computer Science and Engineering
